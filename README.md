@@ -1,5 +1,14 @@
 # booking
 
+
+
+To run the program make sure to save all the files in the same directory. Open the command line and run the command: python buchung.py <bank account bookings csv> <participants csv> (in our example: python dummy_konto.csv dummy_teilnehmer.csv).
+ 
+The mp4 is a short example of what the program does.
+
+
+
+
 In the begining you import your files with the list of all students of the school and the list of people who already paid from the bank statement, both as csv files. You also create a file, which notes all the mistakes that were made by people who paid, with the sturucture of the input files. 
  
 (It also creates a row in the list of all students, that wasnt there before)
