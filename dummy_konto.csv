@@ -1,0 +1,19 @@
+
+
+
+
+Buchungstag,Wert,Umsatzart,Begünstigter / Auftraggeber,Verwendungszweck,IBAN,BIC,Kundenreferenz,Mandatsreferenz ,Gläubiger ID,Fremde Gebühren,Betrag,Abweichender Empfänger,Anzahl der Aufträge,Anzahl der Schecks,Soll,Haben,Währung
+05.08.2020,05.08.2020,SEPA-Gutschrift von,Ich habe keine Nummer angegeben,SBF S1234,DE 12 8238 1823 8238 12,GENODEF1SLR,,,,,,,,,,25,
+05.08.2020,05.08.2020,SEPA-Gutschrift von,Ich habe keine Nummer angegeben,SBF S1235,DE 12 8238 1823 8238 13,GENODEF1SLR,,,,,,,,,,30,
+05.08.2020,05.08.2020,SEPA-Gutschrift von,Ich habe keine Nummer angegeben,SBF  S1236,DE 12 8238 1823 8238 14,GENODEF1SLR,,,,,,,,,,45,
+05.08.2020,05.08.2020,SEPA-Gutschrift von,Ich habe keine Nummer angegeben,SBF  s3214,DE 12 8238 1823 8238 15,DRESDEFF250,,,,,,,,,,45,
+04.08.2020,04.08.2020,SEPA-Gutschrift von,Ich habe keine Nummer angegeben,SBF  S6454,DE 12 8238 1823 8238 16,DEUTDEDBBER,,,,,,,,,,45,
+04.08.2020,04.08.2020,SEPA-Gutschrift von,Ich habe keine Nummer angegeben,SBF  S9241,DE 12 8238 1823 8238 17,DEUTDEDBBER,,,,,,,,,,45,
+04.08.2020,04.08.2020,SEPA-Gutschrift von,Ich habe keine Nummer angegeben,Ich habe keine Nummer angegeben,DE 12 8238 1823 8238 18,DEUTDEDBBER,,,,,,,,,,45,
+03.08.2020,03.08.2020,SEPA-Gutschrift von,Ich habe keine Nummer angegeben,Ich habe zwei Nummen angegeben S5555 S7654,DE 12 8238 1823 8238 19,DRESDEFF250,,,,,,,,,,45,
+31.07.2020,31.07.2020,SEPA-Gutschrift von,Ich habe keine Nummer angegeben,SBF  S1515,DE 12 8238 1823 8238 20,COBADEHDXXX,,,,,,,,,,50,
+31.07.2020,31.07.2020,SEPA-Gutschrift von,Ich habe keine Nummer angegeben,SBF  S6666,DE 12 8238 1823 8238 21,COBADEHDXXX,,,,,,,,,,70,
+01.08.2020,01.08.2020,SEPA-Gutschrift von,Ich habe keine Nummer angegeben,SBF  S7777,DE 12 8238 1823 8238 22,DEUTDEDBBER,,,,,,,,,,101,
+02.08.2020,02.08.2020,SEPA-Gutschrift von,Ich habe keine Nummer angegeben,SBF  S0987,DE 12 8238 1823 8238 23,DEUTDEDBBER,,,,,,,,,,45,
+03.08.2020,03.08.2020,SEPA-Gutschrift von,Ich habe keine Nummer angegeben,SBF  s1029,DE 12 8238 1823 8238 24,DEUTDEDBBER,,,,,,,,,,45,
+03.08.2020,03.08.2020,SEPA-Gutschrift von,Ich habe keine Nummer angegeben,SBF S5678,DE 12 8238 1823 8238 25,DEUTDEDBBER,,,,,,,,,,45,

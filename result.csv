@@ -1,0 +1,15 @@
+,Nummer,Name,Vorname,KL,Mutter,Vater,Einzahlung,SBF-J,Datum
+0,S1234,Müller,Tom,6a,Name Mutter,Name Vater,25.0,ja,05.08.2020
+1,S1235,Schmidt,Andreas,8a,Name Mutter,Name Vater,30.0,ja,05.08.2020
+2,S1236,Schmied,Anna,9a,Name Mutter,Name Vater,45.0,ja,05.08.2020
+3,S3214,Fischer,Georg,10b,Name Mutter,Name Vater,45.0,ja,05.08.2020
+4,S6454,Korth,Wassili,7f,Name Mutter,Name Vater,45.0,ja,04.08.2020
+5,S9241,Höchstpersönlich,Jörn,6a,Name Mutter,Name Vater,45.0,ja,04.08.2020
+6,S3957,Meyer,Mia,8r,Name Mutter,Name Vater,,,
+7,S5555,Lüneburg,Nils,4a,Name Mutter,Name Vater,,,
+8,S1515,Utescher,Philipp,4b,Name Mutter,Name Vater,50.0,ja,31.07.2020
+9,S6666,Mustermann,Cordula,4c,Name Mutter,Name Vater,70.0,ja,31.07.2020
+10,S7777,da Costa,Ingo,4a,Name Mutter,Name Vater,101.0,ja,01.08.2020
+11,S0987,Köhn,Imko,6a,Name Mutter,Name Vater,45.0,ja,02.08.2020
+12,S1029,Sulfit,Eisen,9z,Name Mutter,Name Vater,45.0,ja,03.08.2020
+13,S5678,Sulfat,Chlor,7t,Name Mutter,Name Vater,45.0,ja,03.08.2020

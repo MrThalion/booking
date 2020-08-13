@@ -1,0 +1,3 @@
+,Buchungstag,Wert,Umsatzart,Begünstigter / Auftraggeber,Verwendungszweck,IBAN,BIC,Kundenreferenz,Mandatsreferenz ,Gläubiger ID,Fremde Gebühren,Betrag,Abweichender Empfänger,Anzahl der Aufträge,Anzahl der Schecks,Soll,Haben,Währung,Fehler
+0,04.08.2020,04.08.2020,SEPA-Gutschrift von,Ich habe keine Nummer angegeben,Ich habe keine Nummer angegeben,DE 12 8238 1823 8238 18,DEUTDEDBBER,,,,,,,,,,45,,Keine oder mehrere SuS-Nr
+1,03.08.2020,03.08.2020,SEPA-Gutschrift von,Ich habe keine Nummer angegeben,Ich habe zwei Nummen angegeben S5555 S7654,DE 12 8238 1823 8238 19,DRESDEFF250,,,,,,,,,,45,,Keine oder mehrere SuS-Nr
